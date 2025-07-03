@@ -133,3 +133,10 @@ th,
     color: white;
     
 }
+.footer-section a {
+    color: white;
+    text-decoration: none;
+}
+.footer-section i{
+    width: 25px;
+}
