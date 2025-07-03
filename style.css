@@ -1,16 +1,12 @@
 .header {
     background-color: rgb(0, 0, 255);
-
+margin:0;
     text-align: center;
     padding: 20px;
-}
-
-.header h1,
-p {
     color: white;
-    padding: 5px;
-
 }
+
+
 
 body {
     background-color: rgb(191, 208, 222);
@@ -115,6 +111,7 @@ td {
 .section-four {
   
     margin-top: 50px;
+    margin-bottom: 50px;
     padding: 56px;
     background-color: white;
     width: 600px;
@@ -127,9 +124,7 @@ td {
 .footer-section{
     background-color: blue;
     text-align: center;
-    padding: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-bottom: 0;
-    margin-left: 0px
+    padding: 15px;
+    color: white;
+    
 }
