@@ -75,23 +75,28 @@ body {
 
 .table,
 th,
-td {
+ td{
     border: 1px solid black;
     border-collapse: collapse;
     padding: 15px;
     width: 1300px;
     margin-left: 60px;
     margin-right: 60px;
-    background-color: white
+  
+    border-radius: 10px;
 }
+
 
 .custom-width {
     width: 20%;
+   
 }
 
 .table tr.custom-bg {
-    background-color: #d1e7dd;
+    background-color: #15ec8b;
 }
+
+
 
 .section-four a {
     padding-bottom: 15px;
